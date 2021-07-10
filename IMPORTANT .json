@@ -1,0 +1,1968 @@
+{}
+  "promotionRoutes" : {
+    "MAC" : "ACC",
+    "CUSA" : "BIG12",
+    "IND" : "SEC",
+    "AAC" : "PAC12",
+    "SBC" : "BIG10",
+    "MDC" : "MW"
+  },
+  "relegationRoutes" : {
+    "BIG12" : "CUSA",
+    "PAC12" : "AAC",
+    "ACC" : "MAC",
+    "BIG10" : "SBC",
+    "SEC" : "IND",
+    "MW" : "MDC"
+  },
+  "conferences" : [
+    {
+      "confTeams" : [
+        {
+          "abbreviation" : "OSU",
+          "prestige" : "95",
+          "hexColor" : "#A62C17",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "36",
+            "cumulativePrestige" : "0",
+            "homeState" : "Rhode Island",
+            "ratPot" : "66",
+            "hometown" : "Clayville",
+            "ratTalent" : "91",
+            "baselinePrestige" : "95",
+            "coachingAbility" : "69",
+            "name" : "Conner Casias",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "NU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "52",
+            "cumulativePrestige" : "0",
+            "homeState" : "Kentucky",
+            "ratPot" : "51",
+            "hometown" : "Combs",
+            "ratTalent" : "74",
+            "baselinePrestige" : "95",
+            "coachingAbility" : "72",
+            "name" : "Mick Lucido",
+            "contractYear" : "2"
+          },
+          "roster" : {
+            "OL" : {
+              "count" : 10,
+              "players" : [
+                {
+                  "ratPot" : "73",
+                  "position" : "OL",
+                  "ratDur" : "79",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "78"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "88"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "79"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "101"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "73"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "85"
+                    }
+                  },
+                  "jerseyNumber" : "53",
+                  "ratFootIQ" : "78",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Mississippi",
+                    "city" : "Iuka",
+                    "height" : "6ft7in",
+                    "weight" : "384 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Morris Zeh"
+                },
+                {
+                  "ratPot" : "85",
+                  "position" : "OL",
+                  "ratDur" : "66",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "99"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "82"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "66"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "95"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "85"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "95"
+                    }
+                  },
+                  "jerseyNumber" : "55",
+                  "ratFootIQ" : "99",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Hawaii",
+                    "city" : "Waianae",
+                    "height" : "6ft6in",
+                    "weight" : "355 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Adam Wingfield"
+                },
+                {
+                  "ratPot" : "96",
+                  "position" : "OL",
+                  "ratDur" : "90",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "53"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "98"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "90"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "85"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "96"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "99"
+                    }
+                  },
+                  "jerseyNumber" : "74",
+                  "ratFootIQ" : "53",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Hawaii",
+                    "city" : "Eleele",
+                    "height" : "6ft7in",
+                    "weight" : "387 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Jackson Hachez"
+                },
+                {
+                  "ratPot" : "88",
+                  "position" : "OL",
+                  "ratDur" : "67",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "60"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "83"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "67"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "92"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "88"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "88"
+                    }
+                  },
+                  "jerseyNumber" : "54",
+                  "ratFootIQ" : "60",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Georgia",
+                    "city" : "Oxford",
+                    "height" : "6ft7in",
+                    "weight" : "307 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Allen Figge"
+                },
+                {
+                  "ratPot" : "81",
+                  "position" : "OL",
+                  "ratDur" : "56",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "52"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "93"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "56"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "87"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "81"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "87"
+                    }
+                  },
+                  "jerseyNumber" : "51",
+                  "ratFootIQ" : "52",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Tennessee",
+                    "city" : "Martin",
+                    "height" : "6ft7in",
+                    "weight" : "338 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Giovanni Muldrow"
+                },
+                {
+                  "ratPot" : "51",
+                  "position" : "OL",
+                  "ratDur" : "98",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "50"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "86"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "98"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "83"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "51"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "92"
+                    }
+                  },
+                  "jerseyNumber" : "89",
+                  "ratFootIQ" : "50",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Missouri",
+                    "city" : "Gasconade",
+                    "height" : "6ft7in",
+                    "weight" : "336 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Bart Bonilla"
+                },
+                {
+                  "ratPot" : "74",
+                  "position" : "OL",
+                  "ratDur" : "71",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "75"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "83"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "71"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "74"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "74"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "76"
+                    }
+                  },
+                  "jerseyNumber" : "58",
+                  "ratFootIQ" : "75",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Delaware",
+                    "city" : "Hockessin",
+                    "height" : "6ft7in",
+                    "weight" : "299 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Nathan Alvino"
+                },
+                {
+                  "ratPot" : "66",
+                  "position" : "OL",
+                  "ratDur" : "84",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "95"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "70"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "84"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "84"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "66"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "61"
+                    }
+                  },
+                  "jerseyNumber" : "98",
+                  "ratFootIQ" : "95",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Illinois",
+                    "city" : "Odell",
+                    "height" : "6ft6in",
+                    "weight" : "338 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Terry Senemounnarat"
+                },
+                {
+                  "ratPot" : "61",
+                  "position" : "OL",
+                  "ratDur" : "85",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "93"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "65"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "85"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "77"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "61"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "84"
+                    }
+                  },
+                  "jerseyNumber" : "95",
+                  "ratFootIQ" : "93",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Alaska",
+                    "city" : "Eagle River",
+                    "height" : "6ft6in",
+                    "weight" : "343 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Ira Weith"
+                },
+                {
+                  "ratPot" : "66",
+                  "position" : "OL",
+                  "ratDur" : "96",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "62"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "70"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "96"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "76"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "66"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "72"
+                    }
+                  },
+                  "jerseyNumber" : "92",
+                  "ratFootIQ" : "62",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Florida",
+                    "city" : "Laguna Beach",
+                    "height" : "6ft7in",
+                    "weight" : "356 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Brett Greenlow"
+                }
+              ]
+            },
+            "WR" : {
+              "count" : 8,
+              "players" : [
+                {
+                  "ratPot" : "80",
+                  "position" : "WR",
+                  "ratDur" : "54",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "58"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "88"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "54"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "90"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "80"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "94"
+                    }
+                  },
+                  "jerseyNumber" : "10",
+                  "ratFootIQ" : "58",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Arkansas",
+                    "city" : "Pottsville",
+                    "height" : "6ft4in",
+                    "weight" : "229 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Kris Algeo"
+                },
+                {
+                  "ratPot" : "80",
+                  "position" : "WR",
+                  "ratDur" : "87",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "71"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "86"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "87"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "88"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "80"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "82"
+                    }
+                  },
+                  "jerseyNumber" : "20",
+                  "ratFootIQ" : "71",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Louisiana",
+                    "city" : "Mansfield",
+                    "height" : "6ft3in",
+                    "weight" : "235 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Khalil Halasz"
+                },
+                {
+                  "ratPot" : "99",
+                  "position" : "WR",
+                  "ratDur" : "90",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "55"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "71"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "90"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "89"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "99"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "71"
+                    }
+                  },
+                  "jerseyNumber" : "33",
+                  "ratFootIQ" : "55",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Alaska",
+                    "city" : "College",
+                    "height" : "6ft3in",
+                    "weight" : "223 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Randall Lounds"
+                },
+                {
+                  "ratPot" : "93",
+                  "position" : "WR",
+                  "ratDur" : "53",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "77"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "81"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "53"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "78"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "93"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "78"
+                    }
+                  },
+                  "jerseyNumber" : "13",
+                  "ratFootIQ" : "77",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Iowa",
+                    "city" : "Underwood",
+                    "height" : "6ft5in",
+                    "weight" : "197 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Spencer Hartsfield"
+                },
+                {
+                  "ratPot" : "72",
+                  "position" : "WR",
+                  "ratDur" : "79",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "77"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "4-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "81"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "79"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "71"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "72"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "85"
+                    }
+                  },
+                  "jerseyNumber" : "4",
+                  "ratFootIQ" : "77",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Oklahoma",
+                    "city" : "Hinton",
+                    "height" : "6ft3in",
+                    "weight" : "214 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Darrel Downing"
+                },
+                {
+                  "ratPot" : "92",
+                  "position" : "WR",
+                  "ratDur" : "85",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "53"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "76"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "85"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "71"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "92"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "74"
+                    }
+                  },
+                  "jerseyNumber" : "0",
+                  "ratFootIQ" : "53",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Ohio",
+                    "city" : "Arlington",
+                    "height" : "6ft4in",
+                    "weight" : "201 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "TD Jargas"
+                },
+                {
+                  "ratPot" : "81",
+                  "position" : "WR",
+                  "ratDur" : "80",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "72"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "65"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "80"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "67"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "81"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "82"
+                    }
+                  },
+                  "jerseyNumber" : "0",
+                  "ratFootIQ" : "72",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "New Mexico",
+                    "city" : "La Mesa",
+                    "height" : "6ft1in",
+                    "weight" : "238 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Terrell Skibo"
+                },
+                {
+                  "ratPot" : "95",
+                  "position" : "WR",
+                  "ratDur" : "51",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "78"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "76"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "51"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "94"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "95"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "94"
+                    }
+                  },
+                  "jerseyNumber" : "0",
+                  "ratFootIQ" : "78",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Massachusetts",
+                    "city" : "Brewster",
+                    "height" : "6ft2in",
+                    "weight" : "232 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Malik Kemna"
+                }
+              ]
+            },
+            "CB" : {
+              "count" : 8,
+              "players" : [
+                {
+                  "ratPot" : "91",
+                  "position" : "CB",
+                  "ratDur" : "77",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "73"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "103"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "77"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "87"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "91"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "96"
+                    }
+                  },
+                  "jerseyNumber" : "38",
+                  "ratFootIQ" : "73",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Michigan",
+                    "city" : "Roscommon",
+                    "height" : "6ft1in",
+                    "weight" : "192 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Brendan Rizzotto"
+                },
+                {
+                  "ratPot" : "55",
+                  "position" : "CB",
+                  "ratDur" : "66",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "82"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "96"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "66"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "97"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "55"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "80"
+                    }
+                  },
+                  "jerseyNumber" : "6",
+                  "ratFootIQ" : "82",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Delaware",
+                    "city" : "Kenton",
+                    "height" : "6ft2in",
+                    "weight" : "190 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Jackson Dykhouse"
+                },
+                {
+                  "ratPot" : "77",
+                  "position" : "CB",
+                  "ratDur" : "52",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "90"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "78"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "52"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "92"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "77"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "87"
+                    }
+                  },
+                  "jerseyNumber" : "47",
+                  "ratFootIQ" : "90",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Nevada",
+                    "city" : "Winchester",
+                    "height" : "6ft0in",
+                    "weight" : "191 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Louie Buchannan"
+                },
+                {
+                  "ratPot" : "59",
+                  "position" : "CB",
+                  "ratDur" : "61",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "99"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "75"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "61"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "89"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "59"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "92"
+                    }
+                  },
+                  "jerseyNumber" : "86",
+                  "ratFootIQ" : "99",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Arizona",
+                    "city" : "Queen Creek",
+                    "height" : "6ft0in",
+                    "weight" : "172 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Emmett Isgrigg"
+                },
+                {
+                  "ratPot" : "54",
+                  "position" : "CB",
+                  "ratDur" : "70",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "72"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "89"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "70"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "89"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "54"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "76"
+                    }
+                  },
+                  "jerseyNumber" : "39",
+                  "ratFootIQ" : "72",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Maine",
+                    "city" : "Stetson",
+                    "height" : "6ft2in",
+                    "weight" : "187 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Fidel Bunes"
+                },
+                {
+                  "ratPot" : "57",
+                  "position" : "CB",
+                  "ratDur" : "94",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "58"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "4-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "84"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "94"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "76"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "57"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "77"
+                    }
+                  },
+                  "jerseyNumber" : "65",
+                  "ratFootIQ" : "58",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Florida",
+                    "city" : "Royal Palm Beach",
+                    "height" : "6ft2in",
+                    "weight" : "175 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Damon Dermody"
+                },
+                {
+                  "ratPot" : "78",
+                  "position" : "CB",
+                  "ratDur" : "77",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "50"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "85"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "77"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "71"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "78"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "69"
+                    }
+                  },
+                  "jerseyNumber" : "89",
+                  "ratFootIQ" : "50",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "California",
+                    "city" : "Lake of the Pines",
+                    "height" : "6ft2in",
+                    "weight" : "182 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Landon Gladin"
+                },
+                {
+                  "ratPot" : "95",
+                  "position" : "CB",
+                  "ratDur" : "58",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "69"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "76"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "58"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "64"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "95"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "66"
+                    }
+                  },
+                  "jerseyNumber" : "3",
+                  "ratFootIQ" : "69",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Hawaii",
+                    "city" : "Kalaheo",
+                    "height" : "6ft2in",
+                    "weight" : "188 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Miguel Bartholemew"
+                }
+              ]
+            },
+            "S" : {
+              "count" : 2,
+              "players" : [
+                {
+                  "ratPot" : "89",
+                  "position" : "S",
+                  "ratDur" : "71",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "78"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "92"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "71"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "92"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "89"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "79"
+                    }
+                  },
+                  "jerseyNumber" : "27",
+                  "ratFootIQ" : "78",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "California",
+                    "city" : "Melrose",
+                    "height" : "6ft4in",
+                    "weight" : "226 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Drew Defeo"
+                },
+                {
+                  "ratPot" : "74",
+                  "position" : "S",
+                  "ratDur" : "63",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "52"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "77"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "63"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "86"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "74"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "76"
+                    }
+                  },
+                  "jerseyNumber" : "0",
+                  "ratFootIQ" : "52",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "California",
+                    "city" : "Logan Heights",
+                    "height" : "6ft1in",
+                    "weight" : "213 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Davon Worthey"
+                }
+              ]
+            },
+            "TE" : {
+              "count" : 2,
+              "players" : [
+                {
+                  "ratPot" : "71",
+                  "position" : "TE",
+                  "ratDur" : "88",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "69"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "77"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "88"
+                    },
+                    "playerStat8" : {
+                      "name" : "Blocking",
+                      "value" : "85"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "90"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "71"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "87"
+                    }
+                  },
+                  "jerseyNumber" : "5",
+                  "ratFootIQ" : "69",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Delaware",
+                    "city" : "Odessa",
+                    "height" : "6ft2in",
+                    "weight" : "220 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Tyrone Tix"
+                },
+                {
+                  "ratPot" : "91",
+                  "position" : "TE",
+                  "ratDur" : "63",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "63"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "76"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "63"
+                    },
+                    "playerStat8" : {
+                      "name" : "Blocking",
+                      "value" : "78"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "88"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "91"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "88"
+                    }
+                  },
+                  "jerseyNumber" : "38",
+                  "ratFootIQ" : "63",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Illinois",
+                    "city" : "Chillicothe",
+                    "height" : "6ft2in",
+                    "weight" : "222 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Devante Leedom"
+                }
+              ]
+            },
+            "LB" : {
+              "count" : 8,
+              "players" : [
+                {
+                  "ratPot" : "73",
+                  "position" : "LB",
+                  "ratDur" : "75",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "87"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "103"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "75"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "95"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "73"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "102"
+                    }
+                  },
+                  "jerseyNumber" : "2",
+                  "ratFootIQ" : "87",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "California",
+                    "city" : "Hidden Meadows",
+                    "height" : "6ft4in",
+                    "weight" : "255 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Dalton Wentland"
+                },
+                {
+                  "ratPot" : "65",
+                  "position" : "LB",
+                  "ratDur" : "61",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "59"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "95"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "61"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "81"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "65"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "99"
+                    }
+                  },
+                  "jerseyNumber" : "67",
+                  "ratFootIQ" : "59",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "District of Columbia",
+                    "city" : "Northwest Washington",
+                    "height" : "6ft3in",
+                    "weight" : "276 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Barney Infantino"
+                },
+                {
+                  "ratPot" : "99",
+                  "position" : "LB",
+                  "ratDur" : "80",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "80"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "77"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "80"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "83"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "99"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "92"
+                    }
+                  },
+                  "jerseyNumber" : "82",
+                  "ratFootIQ" : "80",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "California",
+                    "city" : "Crescent City",
+                    "height" : "6ft4in",
+                    "weight" : "234 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Damian Cabebe"
+                },
+                {
+                  "ratPot" : "67",
+                  "position" : "LB",
+                  "ratDur" : "53",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "51"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "77"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "53"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "85"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "67"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "72"
+                    }
+                  },
+                  "jerseyNumber" : "92",
+                  "ratFootIQ" : "51",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Florida",
+                    "city" : "Indian Rocks Beach",
+                    "height" : "6ft2in",
+                    "weight" : "274 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Johnathan Picciuto"
+                },
+                {
+                  "ratPot" : "81",
+                  "position" : "LB",
+                  "ratDur" : "51",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "54"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "71"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "51"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "81"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "81"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "84"
+                    }
+                  },
+                  "jerseyNumber" : "22",
+                  "ratFootIQ" : "54",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Oklahoma",
+                    "city" : "Konawa",
+                    "height" : "6ft4in",
+                    "weight" : "249 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "DJ Jubic"
+                },
+                {
+                  "ratPot" : "74",
+                  "position" : "LB",
+                  "ratDur" : "93",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "73"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "4-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "81"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "93"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "74"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "74"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "94"
+                    }
+                  },
+                  "jerseyNumber" : "40",
+                  "ratFootIQ" : "73",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Connecticut",
+                    "city" : "Old Saybrook",
+                    "height" : "6ft3in",
+                    "weight" : "264 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Manuel Rodgers"
+                },
+                {
+                  "ratPot" : "90",
+                  "position" : "LB",
+                  "ratDur" : "66",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "64"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "90"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "66"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "75"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "90"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "85"
+                    }
+                  },
+                  "jerseyNumber" : "0",
+                  "ratFootIQ" : "64",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "New Jersey",
+                    "city" : "Malaga",
+                    "height" : "6ft3in",
+                    "weight" : "249 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Timothy Been"
+                },
+                {
+                  "ratPot" : "75",
+                  "position" : "LB",
+                  "ratDur" : "87",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "50"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "84"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "87"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "83"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "75"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "73"
+                    }
+                  },
+                  "jerseyNumber" : "0",
+                  "ratFootIQ" : "50",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Idaho",
+                    "city" : "Wilder",
+                    "height" : "6ft2in",
+                    "weight" : "278 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Willis Morneault"
+                }
+              ]
+            },
+            "RB" : {
+              "count" : 4,
+              "players" : [
+                {
+                  "ratPot" : "76",
+                  "position" : "RB",
+                  "ratDur" : "87",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "75"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "94"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "87"
+                    },
+                    "playerStat8" : {
+                      "name" : "Catching",
+                      "value" : "92"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "85"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "76"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "88"
+                    }
+                  },
+                  "jerseyNumber" : "36",
+                  "ratFootIQ" : "75",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "South Dakota",
+                    "city" : "Witten Township",
+                    "height" : "6ft3in",
+                    "weight" : "236 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Kenyon Fergus"
+                },
+                {
+                  "ratPot" : "69",
+                  "position" : "RB",
+                  "ratDur" : "60",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "51"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "87"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "60"
+                    },
+                    "playerStat8" : {
+                      "name" : "Catching",
+                      "value" : "77"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "80"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "69"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "84"
+                    }
+                  },
+                  "jerseyNumber" : "16",
+                  "ratFootIQ" : "51",
+                  "startYear" : "2021",
+                  "personalDetails" : {
+                    "home_state" : "Ohio",
+                    "city" : "Hanoverton",
+                    "height" : "6ft3in",
+                    "weight" : "214 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Peter Romberger"
+                },
+                {
+                  "ratPot" : "86",
+                  "position" : "RB",
+                  "ratDur" : "88",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "51"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "86"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                     
